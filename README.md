@@ -1,5 +1,5 @@
 # initPost-Pelican 
-![MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square) ![version](https://img.shields.io/badge/Version-0.1-green.svg?style=flat-square) ![python](https://img.shields.io/badge/Python-2.7.12--3.5.2...-blue.svg?style=flat-square) ![syntax](https://img.shields.io/badge/SupportSyntax-Markdown-orange.svg?style=flat-square)
+![MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square) ![version](https://img.shields.io/badge/version-0.1-green.svg?style=flat-square) ![python](https://img.shields.io/badge/python-2.7.12--3.5.2...-blue.svg?style=flat-square) ![syntax](https://img.shields.io/badge/support_syntax-markdown-orange.svg?style=flat-square)
 - A easy initialization Pelican Markdown post script.
 - 一个易用的Pelican Markdown格式初始化脚本。
 
