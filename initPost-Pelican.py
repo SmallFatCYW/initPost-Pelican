@@ -4,7 +4,7 @@ import time
 import re
 
 def nowTime():
-	oneTime = time.strftime("%Y-%d-%m")
+	oneTime = time.strftime("%Y-%m-%d")
 	twoTime = time.strftime("%H:%M")
 	creTime = '{0} {1}'.format(oneTime, twoTime)
 	return creTime
