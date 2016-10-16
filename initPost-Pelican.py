@@ -40,7 +40,7 @@ def crePost():
 		num = 0
 		creFile.write('\nTags: ')
 		for i in Tags:
-			creFile.write('%s ' %Tags[num])
+			creFile.write('{0!s} '.format(Tags[num]))
 			num += 1
 	
 	while True:
